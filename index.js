@@ -6,7 +6,7 @@ var app = express();
 app.get('/kd', function (req, res) {
     let message = {
         status : true,
-        message : 'Hello World'
+        message : 'HI'
     }
 res.send(message);
 });
