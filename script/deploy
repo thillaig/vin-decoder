@@ -1,3 +1,4 @@
+ cd /home/ubuntu/vin-decoder
 #!/bin/sh
  cd /home/ubuntu/vin-decoder
  git pull origin main
