@@ -6,7 +6,7 @@ var app = express();
 app.get('/', function (req, res) {
     let message = {
         status : true,
-        message : 'HI'
+        message : 'HI-1'
     }
 res.send(message);
 });
