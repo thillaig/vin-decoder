@@ -1,0 +1,7 @@
+#!/bin/sh
+ cd ~/vin-decoder
+ git pull
+ npm install — production
+ forever restart all
+ exit
+EOF
