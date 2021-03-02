@@ -1,6 +1,6 @@
 #!/bin/sh
  cd ~/vin-decoder
- git pull
+ git pull origin main
  npm install — production
  forever restart all
  exit
