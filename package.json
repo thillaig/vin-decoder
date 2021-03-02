@@ -1,6 +1,6 @@
 {
   "name": "vin-decoder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "To Decode a VIN and give Vehicle Data",
   "main": "index.js",
   "scripts": {
